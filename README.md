@@ -1,4 +1,5 @@
 # vs-gnome README
+<img src="VSGnome.png" width="400" />
 
 This is the README for your extension "vs-gnome". After writing up a brief description, we recommend including the following sections.
 
